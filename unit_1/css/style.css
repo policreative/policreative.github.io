@@ -7,13 +7,12 @@ h1 {
     font-family: helvlt,"HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
     font-size: 300%;
     text-align: center;
-    padding: 20%;
+    padding: 10%;
 }
 
 p {
     color: #2b3339;
     font-family: helvlt,"HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
-    font-size: 5%;
     text-align: center;
-    padding: 40%;
+    vertical-align: top;
 }
