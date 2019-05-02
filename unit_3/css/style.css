@@ -1,6 +1,6 @@
 body {
     background-image: url('../images/IN.jpg');
-    background-size: auto;
+    background-size: cover;
 }
 
 h1 {
