@@ -1,5 +1,6 @@
 body {
-    background-image: url('../images/IN.jpg')
+    background-image: url('../images/IN.jpg');
+    background-position: auto;
 }
 
 h1 {
