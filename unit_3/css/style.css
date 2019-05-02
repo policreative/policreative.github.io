@@ -19,3 +19,7 @@ p {
     padding-left: 10%;
     padding-right: 20%;
 }
+
+#slogan {
+    font-style: italic;
+}
