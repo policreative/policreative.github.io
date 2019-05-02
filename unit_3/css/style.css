@@ -23,6 +23,7 @@ p {
 
 #slogan {
     font-style: italic;
-    font-size: 700%;
+    font-size: 600%;
     font-weight: 400;
+    padding-right: 30%;
 }
