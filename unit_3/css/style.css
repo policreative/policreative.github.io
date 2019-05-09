@@ -4,16 +4,17 @@ body {
 }
 
 h1 {
-    color: #11589F;
+    color: #f4f6f8;
     font-family: helvlt,"HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
-    font-size: 300%;
-    font-weight: 100;
+    font-style: condensed;
+    font-size: 100%;
+    font-weight: 200;
     text-align: left;
-    padding: 10%;
+    padding: 1%;
 }
 
 p {
-    color: #2b3339;
+    color: #fff;
     font-family: helvlt,"HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
     text-align: left;
     vertical-align: top;
