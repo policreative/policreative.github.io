@@ -5,6 +5,12 @@ body {
     background-size: cover;
 }
 
+div {
+    background-color: #ffe2b8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 header {
     background-color: #ffed74;
     border: 1px black solid;
