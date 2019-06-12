@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri:600|Vidaloka');
+
+body {
+    background-image: url('../images/aqua.jpg');
+    background-size: cover;
+}
+
+div {
+    background-color: #ffe2b8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+header {
+    background-color: #ffed74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #e8c66a;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#two_column {
+    background-color: #ffb7cf;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #e582a2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+    background-color: #e55b88;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #e89c6c;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #ffc675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer  {
+    background-color: #ff957e;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1 {
+    color: #f4f6f8;
+    font-family: 'Hind Siligauri', sans-serif;
+    font-style: condensed;
+    font-size: 100%;
+    font-weight: 700;
+    text-align: left;
+    padding: 5%;
+}
+
+p {
+    color: #fff;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: left;
+    vertical-align: top;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+
+#slogan {
+    font-family: 'Vidaloka', serif;
+    font-size: 600%;
+    font-weight: 400;
+    padding-right: 30%;
+}
